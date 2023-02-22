@@ -1,0 +1,16 @@
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\obj\x86\Debug\WindowsFormsApplication1.FormLicznik.resources
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\obj\x86\Debug\Licznik.csproj.GenerateResource.Cache
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\bin\Debug\Licznik.exe
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\bin\Debug\Licznik.pdb
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\obj\x86\Debug\Licznik.exe
+C:\Users\gacek\documents\visual studio 2010\Projects\Licznik\Licznik\obj\x86\Debug\Licznik.pdb
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\bin\Debug\Licznik.exe
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\bin\Debug\Licznik.pdb
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\Licznik.csproj.AssemblyReference.cache
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\WindowsFormsApplication1.FormLicznik.resources
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\Licznik.csproj.GenerateResource.cache
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\Licznik.csproj.CoreCompileInputs.cache
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\Licznik.exe
+C:\Users\VLO\Downloads\Licznik\Licznik\Licznik\obj\x86\Debug\Licznik.pdb
